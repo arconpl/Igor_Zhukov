@@ -15,6 +15,8 @@
  
 #### Используемые языки и библиотеки
 
-- Python 3, Pandas, Numpy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn, LightGBM, CatBoost, TensorFlow, Keras, Nltk
+- Python 3, Pandas, Numpy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn, LightGBM, CatBoost, TensorFlow, Keras, Nltk, SQL
  
-- 📫 Контакт для связи [Телеграм](http://t.me/@Igor_A_Zhukov)
+#### Контакты для связи
+
+📫 [Телеграм](http://t.me/@Igor_A_Zhukov)
