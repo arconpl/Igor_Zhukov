@@ -10,10 +10,10 @@
  С детства увлекаюсь IT технологиями. 
  Первую программу написал в 14 лет, первый свой компьютер спаял в 17 лет из набора микросхем.
 
-#### Используемые операционные системы
+#### Используемые операционные системы:
 - Linux Mint, Ubuntu, Windows
  
-#### Используемые языки и библиотеки
+#### Используемые языки и библиотеки:
 
 - Python 3, Pandas, Numpy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn, LightGBM, CatBoost, TensorFlow, Keras, Nltk, SQL
  
