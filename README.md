@@ -12,7 +12,7 @@
 
 
 #### Я использую для работы следующие операционные системы:
-- Linux Mint, Ubuntu, Android, Windows
+- Linux Mint, Android, Windows
 
 #### Используемые СУБД:
 - PostgreSQL
